@@ -1,0 +1,175 @@
+ body
+/*{
+  margin-left: 30%;
+  margin-right: 30%;
+  background-image: url('img_asma.PNG');
+  color: #FFF;
+/*}
+/* page google */
+nav
+{
+  margin-bottom: 10px;
+
+}
+ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFF  ;
+  margin-right: 30px;
+}
+li
+{
+  float: right;
+  margin-left: 15px;
+  color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+.li_text
+{
+    margin-top: 10px;
+}
+.img
+{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+a
+{
+  color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+a:hover
+{
+  color: rgba(0,0,0,0.87);
+  text-decoration: underline;
+}
+.grid{
+  margin-top: 10px;
+  height:23px;
+  position:relative;
+  bottom:4px;
+}
+#conteneur
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items:center
+}
+
+.bar{
+  margin:0 auto;
+  width:575px;
+  border-radius:30px;
+  border:1px solid #dcdcdc;
+}
+.bar:hover{
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+.bar:focus-within{
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+  outline:none;
+}
+.searchbar{
+  height:45px;
+  border:none;
+  width:500px;
+  font-size:16px;
+  outline: none;
+
+}
+.fa-search:before {
+    content: "\f002";
+    margin-left: 10px;
+}
+.voice{
+  height:20px;
+  position:relative;
+  top:5px;
+  left:10px;
+}
+.buttons{
+  margin-top:30px;
+}
+.button{
+  background-color: #f5f5f5;
+  border:none;
+  color:#707070;
+  font-size:15px;
+  padding: 10px 20px;
+  margin:5px;
+  border-radius:4px;
+  outline:none;
+}
+.button:hover{
+  border: 1px solid #c8c8c8;
+  padding: 9px 19px;
+  color:#808080;
+}
+.button:focus{
+  border:1px solid #4885ed;
+  padding: 9px 19px;
+}
+h2.text_afer_btn
+{
+  margin-top: 30px;
+  color: #222222;
+  font-size: 13px;
+  font-family: arial;
+}
+em
+{
+  color: #1A0DAB;
+}
+.footer {
+   background: #f2f2f2;
+   font-size: 10pt;
+    height: 105px;
+    width: 100%;
+    position: absolute; bottom: 0; left: 0; right: 0;
+    padding-bottom: 20px;
+
+}
+.content
+ {
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+    min-width: 980px;
+    min-width: 400px;
+    padding-bottom: 20px;
+}
+.link
+{
+    padding-left: 50px;
+    float: left;
+    margin-right: 30px;
+    color:#707070;
+    font-size:15px;
+}
+.link_1
+{
+    padding-left: 50px;
+    float: right;
+    margin-right: 30px;
+    color:#707070;
+    font-size:15px;
+}
+h2.text_france
+
+{
+  color:#707070;
+  font-size:15px;
+  padding-left: 60px;
+
+}
+a.a_link
+{
+    margin-left: 10px;
+}
+/*page google */
